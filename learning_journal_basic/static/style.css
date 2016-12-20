@@ -1,0 +1,24 @@
+html {
+    background-color: #51657e
+}
+
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+li {
+    display: inline-block;
+    margin: 0;
+}
+
+
+article {
+    display: block;
+    background-color: #abd591;
+    min-height: 130px;
+    padding: 20px;
+    border: 5px solid;
+    border-radius: 3px;
+}
