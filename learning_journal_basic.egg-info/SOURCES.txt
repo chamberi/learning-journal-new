@@ -5,6 +5,7 @@ development.ini
 production.ini
 pytest.ini
 learning_journal_basic/__init__.py
+learning_journal_basic/routes.py
 learning_journal_basic/tests.py
 learning_journal_basic/views.py
 learning_journal_basic.egg-info/PKG-INFO
@@ -14,6 +15,7 @@ learning_journal_basic.egg-info/entry_points.txt
 learning_journal_basic.egg-info/not-zip-safe
 learning_journal_basic.egg-info/requires.txt
 learning_journal_basic.egg-info/top_level.txt
+learning_journal_basic/data/entry1.html
 learning_journal_basic/static/pyramid-16x16.png
 learning_journal_basic/static/pyramid.png
 learning_journal_basic/static/style.css
