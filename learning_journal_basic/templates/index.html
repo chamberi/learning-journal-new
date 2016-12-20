@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="utf-8">
-  <title>Your page title here :)</title>
+  <title>Colin Lamont's Learning Journal</title>
   <meta name="description" content="">
   <meta name="author" content="">
   <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -12,13 +12,22 @@
   <!-- <link rel="icon" type="image/png" href="images/favicon.png"> -->
 </head>
 <body>
+  <header>
+    <nav>
+      <ul>
+        <li><a href="/journal/new-entry">Create</a></li>
+        <li><a href="/journal/detail">Articles</a></li>
+        <li><a href="/journal/{id:\d+}/edit-entry">Edit</a></li>
+      </ul>
+    </nav>
+  </header>
   <div class="container">
     <div class="row">
-      <div class="one-half column" style="margin-top: 5%">
+      <div class="one-half column" style="margin-top: 3%">
         <h4>Colin's Learning Journal</h4>
         <p>My learning journal</p>
         <ul>
-          <li><a href=""><h3>today I learned ...</h3></a></li>
+          <li><a href=""><h3>What's new today.</h3></a></li>
           <li id="article"><a href="/journal/new-entry">Create a new article</a></li>
         </ul>
         <div>

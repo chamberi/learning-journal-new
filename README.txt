@@ -1,6 +1,8 @@
 learning_journal_basic README
 ==================
 
+Heroku app URL: https://colin-lj.herokuapp.com/
+
 Getting Started
 ---------------
 
