@@ -4,8 +4,11 @@ README.txt
 development.ini
 production.ini
 pytest.ini
+requirements.txt
+tox.ini
 learning_journal_basic/__init__.py
 learning_journal_basic/routes.py
+learning_journal_basic/runapp.py
 learning_journal_basic/tests.py
 learning_journal_basic/views.py
 learning_journal_basic.egg-info/PKG-INFO
@@ -16,12 +19,15 @@ learning_journal_basic.egg-info/not-zip-safe
 learning_journal_basic.egg-info/requires.txt
 learning_journal_basic.egg-info/top_level.txt
 learning_journal_basic/data/entry1.html
+learning_journal_basic/static/normalize.css
 learning_journal_basic/static/pyramid-16x16.png
 learning_journal_basic/static/pyramid.png
+learning_journal_basic/static/skeleton.css
 learning_journal_basic/static/style.css
 learning_journal_basic/static/theme.css
 learning_journal_basic/templates/articles.html
 learning_journal_basic/templates/create.html
+learning_journal_basic/templates/detail.jinja2.html
 learning_journal_basic/templates/edit.html
 learning_journal_basic/templates/index.html
 learning_journal_basic/templates/mytemplate.pt
